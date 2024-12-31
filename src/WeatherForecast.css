@@ -1,0 +1,10 @@
+.WeatherForecast {
+  text-align: center;
+}
+
+.WeatherForecast hr {
+  color: #54b3a9;
+  padding: 1px;
+  opacity: 50%;
+  margin-top: 8px;
+}
